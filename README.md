@@ -1,5 +1,5 @@
 # AdmitKard
-it is a question inserting and searcing technique
+text search and insert
 Video link :
 https://drive.google.com/file/d/1FfoDuP_-kKv9-M_-cmfkCcOlHUJT76e7/view?usp=sharing
 
